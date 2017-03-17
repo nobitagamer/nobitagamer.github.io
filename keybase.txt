@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/trieunk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nobitagamer.github.io
+  * I am trieunk (https://keybase.io/trieunk) on keybase.
+  * I have a public key with fingerprint 7E66 1363 841E 7E32 886A  C31D C031 4AF2 3859 6100
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019c803dc28bef24e5fe48feb354c63811b2dc626f42437baa707432fec606ebe10a",
+            "fingerprint": "7e661363841e7e32886ac31dc0314af238596100",
+            "host": "keybase.io",
+            "key_id": "c0314af238596100",
+            "kid": "01019c803dc28bef24e5fe48feb354c63811b2dc626f42437baa707432fec606ebe10a",
+            "uid": "17872be9293cb456eb246beb8f5f3419",
+            "username": "trieunk"
+        },
+        "service": {
+            "hostname": "nobitagamer.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1489734143,
+    "expire_in": 157680000,
+    "prev": "c515c669d8186058a93d673b298027b7955436f445d1b762a202767238d0b5a2",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMNGAnicrVJtUFRVGF5AEVYcyEQpE+oqiLrA/f5YdQaRcDbNckYEMma5H+fuXmD3
+rnfvgiAfQowzxijjWE0JZENJAU5AIRmiAwQYOdTUhKQD/ejD1EICh2wRonPJ/vWz
+8+fM+57nec7zPvP2rwgymQN6sOem2SzeFHCt9x2fKfPa8YUjiKBKRYj1CJIHFi+Q
+LwGvbs9TJMSKoBiKcSKLEpKIswKQcRJQMiBZGQgERYo0wWKYgEsijdMyiZMEI/A8
+gzIkgctApFEaCABDecSCyIrbATSPprh1KMsAmsYIyCYxwAACZ1maFwlMElECI3kZ
+J1iKozEUhUSn6jUY0JzAe0GiosIeLOyL9v4D/z/79i3KYQzL4ALgcI4QBZKCzzhJ
+C0BgZUomSIwzgF6guXkXgGhdU4DPnYeUWhDYLFBEYORqDPII4FYFRecdsNASHYru
+9An/zOXRVF0V1XwIceq6x2s1JPQij8EpBIL9kZpdUNwSzBMyCoDmVVQ3YsUgUtQV
+Qx4jWY6BrkjCgoDDHkUDdsVAUAzNovAY/4ACIz0Ko0Sa5iQWY2mUYnmOkGiGEHCO
+RXFGYDiKIgmYD0lJmMDQOI/DNs3AtCVUoHgcMeY75FYNbeiTd0BNr+Jw87pPA0hp
+X+/LS0wBZlPw0kBj0Uzm0Ih/1y/sg/CFvfvrm7gw5+GprKiE6gMzxamrT05NfNpV
+H9fe/1SRz+9KKYylbwclro22eKcdV+6WWLN+bY/sfLIm8KPTxdXTuZlHK2oHzzb8
+4I/OSS39+M17K5Oi02c3XrSObMh4euy1rSFabI45Hm2vbAw53vXumo0/ijkH+oqz
+M+rLLlvEpQUlYthY0uhwZN2t4XKbreLVP7e0m6a2Wff0nTl3ZkXLmk2dru0tXRk1
+od9GuVzdxU/cWX6+f6yqrXsg2boteXXZyHnbjYbtt366mNC4/4XUP3ZuGA/dNLaX
+qHrdLy57flfQ+8d+D26ei2nOPyS0tlT60yZmB7fsGp65u7nwwhuD3Kmhjn3rRi93
+Oh+kzdUE42UBMr7EM3X1VJ3tkn+4/gpybn1Y/HzTJwdTtj5kIpS+3ZWT48/cz+3K
+/OvBQPmH2TdCiMLoHfHfxTY19HBXK0YXhhpHdgz0v2ROnj8xXdCfXvdQPbr+Qq5Z
+Gkha58wuIYZXRiZHcPd221qGSgNrmzock8vl7GMW28gv4d9/ObGs9vHOx8rNs7d/
+7qlB57iTd6TZmC8KnYLJPNNMznf/tufZr25eXzXK1H0Tb0/4rP7rS/7w1uq2Zk9L
+g9raMN/Rs3Pz2YS343KurwqMecV/MDZMT097sS1+XLN8HnA/bm1UCuV5q6SqN+km
+kzywbySWfg/VKNeJyfbu083dE38DoG2+7g==
+=8H4j
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/trieunk
+
+==================================================================
